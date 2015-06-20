@@ -16,7 +16,7 @@
   },
   "main": "index.js",
   "dependencies": {
-    "mdns-js-packet": "guerrerocarlos/node-mdns-js-packet"
+    "mdns-js-packet": "guerrerocarlos/node-mdns-js-packet",
     "debug": "^2.1.1",
     "semver": "^4.3.1"
   },
